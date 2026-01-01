@@ -38,7 +38,7 @@
     "remark-lint-unordered-list-marker-style": "^1.0.0",
     "remark-parse": "^4.0.0",
     "remark-retext": "^3.0.0",
-    "remark-stringify": "^4.0.0",
+    "remark-stringify": "^11.0.0",
     "retext-emoji": "^4.0.0",
     "retext-english": "^3.0.0",
     "retext-equality": "^3.1.0",
